@@ -1,0 +1,7 @@
+{
+  "name": "TaiCOL 生物多樣性紀錄助手",
+  "description": "專業的台灣物種紀錄管理系統，支援 TaiCOL CSV 匯入、智慧搜尋與完整相簿功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
